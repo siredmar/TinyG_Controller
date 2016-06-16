@@ -3568,7 +3568,7 @@ ECU e.g. control pendant</text>
 <pinref part="JP6" gate="A" pin="7"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="FTDI_RXD" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="RXD"/>
 <wire x1="109.22" y1="152.4" x2="116.84" y2="152.4" width="0.1524" layer="91"/>
@@ -3577,7 +3577,7 @@ ECU e.g. control pendant</text>
 <pinref part="JP6" gate="A" pin="8"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="FTDI_TXD" class="0">
 <segment>
 <wire x1="124.46" y1="152.4" x2="119.38" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="152.4" x2="116.84" y2="154.94" width="0.1524" layer="91"/>

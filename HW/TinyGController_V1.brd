@@ -2293,13 +2293,13 @@ design rules under a new name.</description>
 <wire x1="13.5" y1="43.5" x2="7.46" y2="49.54" width="0.8" layer="16"/>
 <wire x1="5.635" y1="49.54" x2="7.46" y2="49.54" width="0.8" layer="16"/>
 </signal>
-<signal name="N$7">
+<signal name="FTDI_RXD">
 <contactref element="IC2" pad="5"/>
 <contactref element="JP6" pad="8"/>
 <wire x1="20.625" y1="14.375" x2="24.165" y2="14.375" width="0.4" layer="1"/>
 <wire x1="24.165" y1="14.375" x2="24.73" y2="13.81" width="0.4" layer="1"/>
 </signal>
-<signal name="N$5">
+<signal name="FTDI_TXD">
 <contactref element="IC2" pad="1"/>
 <contactref element="JP6" pad="6"/>
 <wire x1="20.625" y1="11.775" x2="24.225" y2="11.775" width="0.4" layer="1"/>
